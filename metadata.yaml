@@ -8,6 +8,9 @@ contributor:
     deathdate: 1959
     gutenberg_agent_id: '45701'
     url: http://www.gutenberg.org/2009/agents/45701
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dumas, Alexandre
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/672
     wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_fils
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54126#Kamelianainen
 gutenberg_issued: '2017-02-07'
 gutenberg_type: Text
 identifiers:
